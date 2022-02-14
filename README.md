@@ -1,16 +1,5 @@
 ### Hi there 👋
 
-### Mermaid diagram test
-
-```mermaid
-    graph TD;
-    A-->B;
-    B-->C;
-    A-->C;
-    C-->D;
-    C-->E;
-```
-
 <!--
 **askoufis/askoufis** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
